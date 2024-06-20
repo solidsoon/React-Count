@@ -28,7 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: #01054f;
+  background: #01054f5b;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,12 +46,12 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #8c67b6;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #ffffff;
 }
 button:focus,
 button:focus-visible {
@@ -59,7 +59,7 @@ button:focus-visible {
 }
 
 .container{
-  background: #858bf6;
+  background: #ffffff1f;
   padding: 40px 30px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: black;
@@ -68,7 +68,7 @@ button:focus-visible {
 
 .container p{
   font-size: 20px;
-  color: #01054f;
+  color: #000000;
   font-weight: bold;
 }
 
